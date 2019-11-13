@@ -6,6 +6,7 @@ public class Program {
 				
 		
 System.out.println("Hello Word!  TESTE" );
+System.out.println("TATA TESTE");
 	}
 
 }
